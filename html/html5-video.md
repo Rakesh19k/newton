@@ -4,7 +4,7 @@ name: HTML5 Video
 
 # HTML5 Videos
 
-HTML5 [Video](http://www.w3schools.com/html/html5_video.asp) ke baarein mein padhe. Iss [video](http://navgurukul.org/files/bunny_video.mp4) ko download karo. Download karne ke liye - video par right click karke, "Save As" par click karo.
+HTML5 [Video](http://www.w3schools.com/html/html5_video.asp) ke baarein mein padhe. Us video ko download karo. Download karne ke liye - video par right click karke, "Save As" par click karo.
 
 Iss video ko apne kisi bhi HTML ke page mei add kare. 
 
